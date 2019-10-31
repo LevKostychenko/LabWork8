@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  LabWork7.cpp
+  List.cpp
+  Generating Code...
+LabWork7.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::List<int>(void)" (??0?$List@H@@QAE@XZ) referenced in function _main
+LabWork7.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::~List<int>(void)" (??1?$List@H@@QAE@XZ) referenced in function _main
+E:\Projects\LabWork7\Debug\LabWork7.exe : fatal error LNK1120: 2 unresolved externals
